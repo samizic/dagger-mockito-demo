@@ -3,7 +3,7 @@ dagger-mockito-demo
 
 Demo application using Dagger and Mockito 
 
-This is a prototype android app that uses Dagger for dependency injection and Mockito for mocking dependencies in unit tests.
+This is a prototype Android app that uses Dagger for dependency injection and Mockito for mocking dependencies in unit tests.
 
 Project is build by gradle and all dependencies are obtained from remote repositories through gradle.
 
